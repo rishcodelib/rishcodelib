@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rishabh @rishcodelib
 - 👀 I’m interested in FullStack Development
 - 🌱 I’m currently learning JAVA Technology
-- 💞️ I’m looking to collaborate on JAVA or MEAN Stack Technologies
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me ri.sbh23@gmail.com
 
 <!---
